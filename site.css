@@ -1,0 +1,21 @@
+body {
+
+    background: lightblue;
+
+}
+div {
+
+    height: 4em;
+    text-align: center;
+
+}
+#net {
+    height: 4em;
+    border: 2px solid black;
+    padding: 4px;
+    margin: 4px;
+}
+#controls{
+
+    margin: 40px;
+}
